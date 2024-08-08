@@ -3,7 +3,7 @@
 ## Description
 This database is the interactive text corpus of real users on the mobile phone. The database itself has been desensitized to ensure of no private information of the user's (A and B are the codes to replace the sender and receiver, and sensitive information such as cellphone number and user name are replaced with '* * *'). This database can be used for tasks such as natural language understanding.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/150?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/llm/150?source=Github
 
 
 # Specifications
